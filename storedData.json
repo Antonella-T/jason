@@ -1,0 +1,32 @@
+{
+  "name": "Antonella",
+  "hobbies": ["Cook", "Music", "Travel"],
+  "married": "false",
+  "years": 25,
+  "shoes": [{
+      "brand": "Adidas",
+      "size": 7,
+      "price": 100
+    },
+    {
+      "brand": "Puma",
+      "size": 7,
+      "price": 80
+    },
+    {
+      "brand": "Calvin Klein",
+      "size": 7,
+      "price": 180
+    },
+    {
+      "brand": "Asos",
+      "size": 8,
+      "price": 20
+    },
+    {
+      "brand": "Zara",
+      "size": 6,
+      "price": 30
+    }
+  ]
+}
